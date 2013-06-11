@@ -1,0 +1,11 @@
+target
+.idea
+*.iml
+*.ipr
+*.iws
+*.aux
+*.bbl
+*.blg
+*.log
+*.synctex
+*.toc
